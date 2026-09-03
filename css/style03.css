@@ -1,0 +1,20 @@
+/* ต้องมี Selectors */
+#aa {
+  color: red;
+  text-align: center;
+}
+#bb {
+  color: #0000ff;
+  text-align: center;
+}
+#cc {
+  color: rgb(0, 255, 0);
+  text-align: center;
+}
+#dd {
+  color: #f0f;
+  text-align: center;
+}
+#ee {
+  text-align: center;
+}
